@@ -1,0 +1,20 @@
+Sources Used:
+
+Deleting a file --> https://www.geeksforgeeks.org/delete-file-using-java/
+
+Getting the current file directory --> https://stackoverflow.com/questions/4871051/getting-the-current-working-directory-in-java?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+
+Reading all Files in the current directory -- > https://stackoverflow.com/questions/1844688/how-to-read-all-files-in-a-folder-from-java?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+(A Combination of Pieces From Answer 1 and Answer 2)
+
+Checking if a file exists --> https://stackoverflow.com/questions/18511874/how-to-check-if-file-name-already-exists?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+
+Creating a progress bar --> https://stackoverflow.com/questions/852665/command-line-progress-bar-in-java?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+*not implemented yet
+
+Renaming a file --> https://stackoverflow.com/questions/1158777/rename-a-file-using-java?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+
+Formatting a String --> https://stackoverflow.com/questions/698261/how-do-you-format-a-fractional-percentage-with-java-text-messageformat?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+(Answer 1)
+
+Lambda & Stream()  --> Module 4 Printable Lecture - CS622 BU MET Summer 1
