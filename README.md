@@ -31,4 +31,4 @@ see how many times each result was chosen.
 
 
 Happy Playing! 
-- Anthony Pacheco
+Anthony Pacheco
