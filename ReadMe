@@ -1,6 +1,8 @@
-ReadMe:
+# Java Quizlet Game
+This application demonstrates the usage of threading, OOP, file I/O and other concepts 
 
-Instructions:
+
+## Instructions:
 Execute the Quiz.java file located in the quizGame_test package.
 
 Option Selection:
